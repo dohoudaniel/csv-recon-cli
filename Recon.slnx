@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Recon.Cli/Recon.Cli.csproj" />
+  <Project Path="Recon.Tests/Recon.Tests.csproj" />
+</Solution>

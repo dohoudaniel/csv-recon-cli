@@ -1,0 +1,6 @@
+Reference,Date,Amount,Description
+TXN1001,2026-09-20,15000.00,Transfer in
+TXN1002,2026-09-20,-2500.50,Card payment
+TXN1003,2026-09-21,7800.00,Transfer in
+TXN1004,2026-09-21,-1200.00,Fee
+TXN1006,2026-09-22,9000.00,Transfer in

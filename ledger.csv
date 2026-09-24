@@ -1,0 +1,6 @@
+Reference,Date,Amount,Description
+TXN1001,2026-09-20,15000.00,Inbound transfer
+TXN1002,2026-09-20,-2500.00,Card payment
+TXN1003,2026-09-21,7800.00,Inbound transfer
+TXN1005,2026-09-21,-450.00,Adjustment
+TXN1001,2026-09-20,15000.00,Duplicate posting
